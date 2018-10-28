@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-beta</version>
+    <title>$title$</title>
+    <authors>vnau</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/vnau/MigraDoc.CsvRendering/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/vnau/MigraDoc.CsvRendering</projectUrl>
+	<iconUrl>https://kelary.ru/kelary.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial revision.</releaseNotes>
+    <copyright>Copyright 2018 Kelary</copyright>
+    <tags>CSV renderer for MigraDoc</tags>
+  </metadata>
+</package>
